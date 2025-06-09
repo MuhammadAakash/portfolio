@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Meta Betties Web3 Marketplace",
+    "description": "A web3 marketplace for Meta Betties NFTs featuring an admin and user portal with stats and collectibles.",
+    "image": "https://cdn.prod.website-files.com/62d6da8f068696de354fb72c/65ce4eefb800ba927e2849f3_Final%20Logo-p-500.png",
+    "body": "I developed a new version of the Meta Betties project, creating a web3 marketplace specifically for their NFTs. This platform includes an admin portal that displays statistics and a user portal showcasing individual collectibles and points earned. The marketplace supports the community-focused mission of Meta Betties, which blends digital art with social advocacy, allowing users to engage with unique NFTs that celebrate and empower the female form while raising awareness for various social issues.",
+    "technologies": ["React", "Web3", "Blockchain"],
+    "deployed": "https://www.metabetties.com/",
+    "bgcolor": "var(--highlight-color)",
+    "id": "1"
+  },
+  {
+    "title": "SeidoHealth Admin Portal & Crawler",
+    "description": "An admin portal developed in React, with a Django backend and a Python Playwright scraping crawler for doctor data.",
+    "image": "https://images.squarespace-cdn.com/content/v1/64bda8023568c7273fda96a1/7101b401-43c0-468e-951c-a012b6e05ad1/logo-transparent-png.png?format=1500w",
+    "body": "I worked on the SeidoHealth project, where I developed an admin portal using React and a backend powered by Django. Additionally, I implemented a scraping crawler with Python and Playwright to extract doctor data from multiple hospital sites in Singapore and Hong Kong. This project supports SeidoHealth’s mission of enhancing global healthcare affordability through data-driven strategies and effective provider partnerships.",
+    "technologies": ["React", "Django", "Python", "Playwright"],
+    "deployed": "",
+    "bgcolor": "var(--seido-color)",
+    "id": "2"
+  },
+
+  {
+    "title": "FanCraft",
+    "description": "An AI-powered platform for managing user feedback on Google Play Store and App Store, designed to enhance player engagement.",
+    "image": "https://fancraft.yodo1.com/wp-content/uploads/2024/04/FanCraft-Logo-W.png",
+    "body": "FanCraft is developed to streamline user feedback management and foster player loyalty. As a React Developer, I contributed to the frontend portal for managing game resources on Android and iOS. The platform automates responses and creates targeted campaigns, allowing developers to improve their apps based on valuable user insights.",
+    "technologies": ["React", "JavaScript", "Python"],
+    "deployed": "https://fancraft.yodo1.com/",
+    "bgcolor": "var(--fancraft)",
+    "id": "3"
+  },
+  {
+    "title": "DonorBox",
+    "description": "A powerful donation platform for nonprofits and fundraisers.",
+    "image": "https://donorbox.org/landing_pages_assets/new-landing-pages/donorbox-logo-white-f972a100723336e0503d3a6992d41ddcac1aaa46ba26dbf758a0cf5c7f61ae6d.svg",
+    "body": "Donorbox is a powerful donation platform designed to empower nonprofits and fundraisers. As a full stack developer, I contributed to the creation of the user dashboard and admin dashboard, along with implementing Stripe configurations for seamless payment processing.",
+    "technologies": ["JavaScript", "Rails", "Stripe"],
+    "deployed": "https://donorbox.org/",
+    "bgcolor": "var(--bg2-color)",
+    "id": "4"
+  },
+  {
+    "title": "Virtual Try-On Integration",
+    "description": "A Python script integrating VTON models for virtual clothing try-ons, implemented in a React Native app.",
+    "image": "https://media.licdn.com/dms/image/D4E12AQGTsixUBePCnA/article-cover_image-shrink_720_1280/0/1690780622829?e=2147483647&v=beta&t=x3HgkfauBPsUVLOEO9nj3pY2UpktJFyQPGz5Q0-ocFM",
+    "body": "I developed a Python script that integrates Virtual Try-On (VTON) models, enabling users to visualize clothing virtually. This functionality was seamlessly integrated into a React Native app, allowing customers to try on clothes, accessories, and more using Augmented Reality. The technology provides realistic simulations, enhancing the online shopping experience and helping users make informed decisions without physical trials.",
+    "technologies": ["Python", "React Native", "Augmented Reality"],
+    "deployed": "",
+    "bgcolor": "var(--text-color)",
+    "id": "5"
+  },
+  {
+    "title": "Sydist Site Crawler",
+    "description": "A crawler that scrapes all products from the Sydist site while navigating through pagination, built with Apify Actors and Python Playwright.",
+    "image": "https://d2a2deposybqt.cloudfront.net/userfiles/image/colored_logo.svg",
+    "body": "This project involves creating a robust crawler that efficiently scrapes all product data from the Sydist site. Utilizing Apify Actors and Python Playwright, the crawler seamlessly navigates pagination to collect comprehensive product information. This solution exemplifies the power of automation in data extraction, providing valuable insights from dynamic web content.",
+    "technologies": ["Python", "Playwright", "Apify"],
+    "github": "https://github.com/mjwad/schaedler-crawler",
+    "deployed": "https://www.sydist.com/",
+    "bgcolor": "var(--sydist-color)",
+    "id": "6"
+  },
+  {
+    "title": "Bug Tracker",
+    "description": "A bug management tool for technical team",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgv217gPQ9m2V8dzjYBLqjuuD1KwtL0cRUw&s",
+    "technologies": ["Ruby on Rails", "JavaScript", "HTML", "CSS", "PostgreSQL"],
+    "body": "Bug Tracker Project: Streamlined bug tracking system catering to project managers, developers, and SQA. Enhances collaboration, ensuring efficient issue monitoring and resolution.",
+    "github": "https://github.com/mjwad/bug_track",
+    "deployed": "https://www.notion.so/templates/bug-tracker-bug-issue-tracking",
+    "bgcolor": "var(--text-color)",
+    "id": "12"
+  },
+  {
+    "title": "Resume Bot",
+    "description": "chat-gpt powered ai resume bot",
+    "image": "/projectImages/resumebot.jpeg",
+    "body": "During my training period as an Associate Engineer, I get opportunity to work on live project, In which I get opportunity to use OpenAi Vision Pro, Whisper and GPT-3 Turbo Model for implementation of amazing features of an App. \n\nBuilding on this experience, I developed a resume bot using ChatGPT. This innovative tool analyzes resumes and job descriptions, providing a percentage match to help candidates tailor their resumes for specific positions. This project not only demonstrates my technical skills but also reflects my commitment to practical solutions and efficiency in the hiring process.",
+    "technologies": ["LangChain Js", "Material Ui", "JavaScript", "HTML", "CSS"],
+    "github": "https://github.com/mjwad/resumebot",
+    "deployed": "https://resumebot.com",
+    "bgcolor": "var(--secondary-text-color)",
+    "id": "13"
+  },
+  {
+    "title": "GreenPal Homeowner App",
+    "description": "A React Native app for homeowners to manage lawn care services, featuring a user-friendly interface and real-time updates.",
+    "image": "https://greenpal-production.s3.amazonaws.com/images/general/bg.png",
+    "body": "I developed the GreenPal Homeowner App, a React Native application designed to help homeowners manage their lawn care services. The app features a user-friendly interface that allows users to easily schedule services, track progress, and receive real-time updates. It also integrates location-based services and maps to help homeowners find nearby lawn care providers. Additionally, secure payment options are included to streamline transactions, ensuring a seamless experience for users. This project showcases my ability to create intuitive mobile applications that enhance user experience and streamline service management.",
+    "technologies": ["React Native", "JavaScript", "Mobile Development"],
+    "deployed": "https://apps.apple.com/gb/app/greenpal-lawn-yard-care-app/id674679653",
+    "bgcolor": "var(--secondary-text-color)",
+    "id": "14"
+  },
+  {
+    "title": "GreenPal Vendor App",
+    "description": "A React Native app for lawn care vendors to manage their services, featuring real-time updates and a user-friendly interface.",
+    "image": "https://greenpal-production.s3.amazonaws.com/images/general/bg.png",
+    "body": "I developed the GreenPal Vendor App, a React Native application tailored for lawn care vendors. This app enables vendors to manage their services efficiently, providing real-time updates and a user-friendly interface. Vendors can use location-based features and maps to track service areas and optimize their routes. The app also includes integrated payment processing, allowing vendors to receive payments securely and efficiently. This project highlights my expertise in mobile development and my commitment to enhancing service management for vendors in the lawn care industry.",
+    "technologies": ["React Native", "JavaScript", "Mobile Development"],
+    "deployed": "https://apps.apple.com/gb/app/greenpal-pro-for-vendors/id1376024912",
+    "bgcolor": "var(--secondary-text-color)",
+    "id": "15"
+  },
+  {
+    "title": "Seido Health App",
+    "description": "A React Native app for Seido Health, providing users with access to healthcare services and information.",
+    "image": "https://images.squarespace-cdn.com/content/v1/64bda8023568c7273fda96a1/7101b401-43c0-468e-951c-a012b6e05ad1/logo-transparent-png.png?format=1500w",
+    "body": "I developed the Seido Health App, a React Native application designed to provide users with access to healthcare services and information. The app features a user-friendly interface that allows users to easily find healthcare providers, book appointments, and access medical resources. It also includes secure messaging capabilities for communication with healthcare professionals. This project demonstrates my ability to create mobile applications that enhance user engagement and improve access to essential services in the healthcare sector.",
+    "technologies": ["React Native", "JavaScript", "Mobile Development"],
+    "deployed": "",
+    "bgcolor": "var(--seido-color)",
+    "id": "16"
+  },
+  {
+    "title": "Gruk",
+    "description": "A React Native app for Gruk, a platform that connects dog adoption agencies with users.",
+    "image": "",
+    "body": "I developed the Gruk app, a React Native application that connects dog adoption agencies with users. The app allows agencies to list dogs available for adoption, update their adoption status, and create, edit, or delete dog profiles. It features location-based services and maps to help users find nearby dogs available for adoption. Additionally, secure payment processing is integrated to facilitate donations or adoption fees. This project highlights my expertise in mobile development and my commitment to creating applications that enhance the adoption process and improve user experience.",
+    "technologies": ["React Native", "JavaScript", "Mobile Development"],
+    "deployed": "",
+    "bgcolor": "var(--secondary-text-color)",
+    "id": "17"
+  },
+  {
+    "title": "iBepu by Brandon Medical",
+    "description": "A React Native app for iBepu, a platform by Brandon Medical that provides healthcare professionals with tools to manage and monitor medical equipment.",
+    "image": "https://www.brandonmedical.com/wp-content/uploads/2023/01/iBepu-Logo-1.png",
+    "body": "I developed the iBepu app, a React Native application by Brandon Medical that focuses on managing and monitoring the status of medical equipment. The app allows users to scan medical equipment using NFC technology to check its status and identify any issues. Engineers can also write updates or maintenance logs directly onto the NFC tags, ensuring accurate and up-to-date information is always available. This project highlights my expertise in integrating advanced technologies like NFC into mobile applications to streamline equipment management and improve operational efficiency in the healthcare sector.",
+    "technologies": ["React Native", "JavaScript", "NFC", "Mobile Development"],
+    "deployed": "",
+    "bgcolor": "var(--secondary-text-color)",
+    "id": "18"
+}
+]
