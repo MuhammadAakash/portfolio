@@ -65,7 +65,7 @@ const Footer = () => {
       </a>
 
       {/* Buy Me A Coffee link */}
-      <motion.a
+      {/* <motion.a
         href="https://www.buymeacoffee.com/m.jawad.malik"
         initial="initial"
         whileHover="hover"
@@ -84,7 +84,7 @@ const Footer = () => {
           variants={buttonVariants}
           transition={{ ease: "easeInOut" }}
         />
-      </motion.a>
+      </motion.a> */}
     </footer>
   );
 };
